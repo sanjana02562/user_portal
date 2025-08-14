@@ -51,9 +51,9 @@ A role-based user management system built with **Django**, featuring **Custom Us
 
 ## 🛠 Future Improvements
 
-Email verification during signup
+- Email verification during signup
 
-Password reset via email
+- Password reset via email
 
-Admin dashboard for managing users
+- Admin dashboard for managing users
 
