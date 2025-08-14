@@ -47,7 +47,7 @@ A role-based user management system built with **Django**, featuring **Custom Us
 6. Run the development server:
    python manage.py runserver
 
-
+---
 
 ## 🛠 Future Improvements
 
