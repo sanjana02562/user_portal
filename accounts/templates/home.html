@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="container mt-5 text-center">
+    <h1>Welcome to User Portal</h1>
+    <p class="lead">Please sign up or log in to continue.</p>
+    <a href="{% url 'signup' %}" class="btn btn-primary btn-lg mt-3">Sign Up</a>
+</div>
+{% endblock %}
