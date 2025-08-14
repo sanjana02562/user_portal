@@ -49,7 +49,7 @@ A role-based user management system built with **Django**, featuring **Custom Us
 
 
 
-🛠 Future Improvements
+## 🛠 Future Improvements
 
 Email verification during signup
 
